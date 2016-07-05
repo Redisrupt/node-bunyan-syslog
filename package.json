@@ -1,13 +1,13 @@
 {
-  "name": "bunyan-syslog",
+  "name": "@redisrupt/bunyan-syslog",
   "description": "Syslog Stream for Bunyan",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Mark Cavage",
   "license": "MIT",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mcavage/node-bunyan-syslog.git"
+    "url": "https://github.com/Redisrupt/node-bunyan-syslog"
   },
   "dependencies": {
     "assert-plus": "0.1.5",
